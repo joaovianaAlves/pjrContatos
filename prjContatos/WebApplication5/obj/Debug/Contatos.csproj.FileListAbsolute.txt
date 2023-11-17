@@ -1,0 +1,21 @@
+G:\Rangel\Sistemas WEB 2023\prjContatos\WebApplication5\bin\WebApplication5.dll.config
+G:\Rangel\Sistemas WEB 2023\prjContatos\WebApplication5\bin\WebApplication5.dll
+G:\Rangel\Sistemas WEB 2023\prjContatos\WebApplication5\bin\WebApplication5.pdb
+G:\Rangel\Sistemas WEB 2023\prjContatos\WebApplication5\obj\Debug\Contatos.csproj.AssemblyReference.cache
+G:\Rangel\Sistemas WEB 2023\prjContatos\WebApplication5\obj\Debug\Contatos.csproj.CoreCompileInputs.cache
+G:\Rangel\Sistemas WEB 2023\prjContatos\WebApplication5\obj\Debug\WebApplication5.dll
+G:\Rangel\Sistemas WEB 2023\prjContatos\WebApplication5\obj\Debug\WebApplication5.pdb
+P:\Rangel\Sistemas WEB 2023\prjContatos\WebApplication5\bin\WebApplication5.dll.config
+P:\Rangel\Sistemas WEB 2023\prjContatos\WebApplication5\bin\WebApplication5.dll
+P:\Rangel\Sistemas WEB 2023\prjContatos\WebApplication5\bin\WebApplication5.pdb
+P:\Rangel\Sistemas WEB 2023\prjContatos\WebApplication5\obj\Debug\Contatos.csproj.AssemblyReference.cache
+P:\Rangel\Sistemas WEB 2023\prjContatos\WebApplication5\obj\Debug\Contatos.csproj.CoreCompileInputs.cache
+P:\Rangel\Sistemas WEB 2023\prjContatos\WebApplication5\obj\Debug\WebApplication5.dll
+P:\Rangel\Sistemas WEB 2023\prjContatos\WebApplication5\obj\Debug\WebApplication5.pdb
+C:\Users\unisanta\Desktop\prjContatos\WebApplication5\bin\WebApplication5.dll.config
+C:\Users\unisanta\Desktop\prjContatos\WebApplication5\bin\WebApplication5.dll
+C:\Users\unisanta\Desktop\prjContatos\WebApplication5\bin\WebApplication5.pdb
+C:\Users\unisanta\Desktop\prjContatos\WebApplication5\obj\Debug\Contatos.csproj.AssemblyReference.cache
+C:\Users\unisanta\Desktop\prjContatos\WebApplication5\obj\Debug\Contatos.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\Desktop\prjContatos\WebApplication5\obj\Debug\WebApplication5.dll
+C:\Users\unisanta\Desktop\prjContatos\WebApplication5\obj\Debug\WebApplication5.pdb
